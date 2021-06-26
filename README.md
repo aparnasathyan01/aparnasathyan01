@@ -4,3 +4,5 @@
 
 - 🌱 I’m currently learning JavaScript 
 - ⚡ Fun fact: I like to draw 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aparnasathyan01&layout=compact)](https://github.com/aparnasathyan01/github-readme-stats)
