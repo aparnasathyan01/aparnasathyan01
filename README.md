@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aparna Sathyanathan!</h1>
 <h3 align="center">a learning full stack developer from India</h3>
 
+<div align="center">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/anapplesaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anapplesaga" height="30" width="40" /></a>
@@ -15,3 +16,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aparnasathyan01&show_icons=true&locale=en&layout=compact&bg_color=151515&text_color=ffffff&title_color=5ade1b&icon_color=5ade1b"
  alt="aparnasathyan01" /></p>
+</div>
